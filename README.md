@@ -1,1 +1,2 @@
 # gerador-desculpas
+google-site-verification=81O6nN-ZuHMQNA450s9brltv6bLYRhL8Bx89osP6BjU
